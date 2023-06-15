@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins',sans-serif;
+}
+.title{
+    background-color: white;
+    height: 6rem;   
+}
+.title h3{
+    padding-top: 30px;
+}
+.ap{
+    margin-left: 45em;
+    margin-top: 10rem;
+    font-weight: 700;
+}
+.box{
+    box-sizing: border-box;
+
+    background-color: white;
+    margin:0rem;
+    padding: 1rem;
+    /* margin-right: 50rem;
+    margin-bottom: 10rem; */
+    color: blue;
+    font-family: 'poppins',sans-serif;
+    /* margin-right:50rem ; */
+    height: 29rem;
+    margin-top: 2rem;
+    margin-right: 68rem;
+}
+.box button{
+    margin-left: 13rem;
+    padding: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 2rem;
+    background-color: green;
+    color: white;
+}
+.box select option{
+    color: red;
+    padding: 2rem;
+}
+option{
+    color: red;
+}
+hr{
+    color: solid 2rem blue ;
+}
+
